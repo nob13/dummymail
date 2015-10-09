@@ -1,0 +1,8 @@
+{
+	"name":"dummymail",
+	"private":true,
+	"dependencies":{
+		"smtp-server":"1.6.0"
+	}
+}
+
